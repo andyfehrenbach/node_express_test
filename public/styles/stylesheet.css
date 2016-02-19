@@ -1,0 +1,26 @@
+h1, h2, label, form, input {
+  font-family: 'verdana', sans-serif;
+}
+
+h2 {
+display: inline;
+
+}
+
+label, input {
+  font-weight: bold;
+}
+
+.right {
+  margin-left: 50px;
+}
+
+#animal-data {
+  margin-top: 50px;
+}
+
+.animal-unit {
+  margin: 20px;
+  border-bottom: 4px solid #ddd;
+  padding: 10px 0 5px 0;
+}
